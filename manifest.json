@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Sum",
+  "version": "0.1.0",
+  "description": "Summarize anything!",
+  "author": "Lucio Rezende Queiroz",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Sum!",
+    "default_icon": "sum-icon.png"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}
