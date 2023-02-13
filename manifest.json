@@ -5,9 +5,9 @@
   "description": "Summarize anything!",
   "author": "Lucio Rezende Queiroz",
   "action": {
-    "default_popup": "index.html",
+    "default_popup": "src/index.html",
     "default_title": "Sum!",
-    "default_icon": "sum-icon.png"
+    "default_icon": "assets/sum-icon.png"
   },
   "permissions": [
     "tabs"

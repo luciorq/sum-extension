@@ -1,5 +1,11 @@
 # Summarize anything
 
+{% note %}
+
+**Note:** This project has been discontinuated because the targetting API is no longer available.
+
+{% endnote %}
+
 ## How to install
 
 - Download the tarball: <https://github.com/luciorq/sum-extension/archive/refs/heads/main.zip>
