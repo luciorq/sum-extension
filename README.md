@@ -1,10 +1,8 @@
 # Summarize anything
 
-{% note %}
 
-**Note:** This project has been discontinuated because the targetting API is no longer available.
-
-{% endnote %}
+> **Note**
+> This project has been discontinuated because the targetting API is no longer available.
 
 ## How to install
 
